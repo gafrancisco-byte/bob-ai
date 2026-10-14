@@ -1,0 +1,6 @@
+[install]
+# Use Bun's lockfile format
+lockfile = true
+
+[run]
+bun = true
